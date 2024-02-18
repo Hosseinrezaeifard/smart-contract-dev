@@ -1,5 +1,5 @@
 ### Visit contract on etherscan
-https://sepolia.etherscan.io/tx/0x10b8fb50ff0f3e1365599bdd5fb523605760f1ab75fb73566f152a445cd6b415)https://sepolia.etherscan.io/tx/0x10b8fb50ff0f3e1365599bdd5fb523605760f1ab75fb73566f152a445cd6b415
+https://sepolia.etherscan.io/tx/0x10b8fb50ff0f3e1365599bdd5fb523605760f1ab75fb73566f152a445cd6b415
 
 ### Function Visibility 
 `public` keyword means the function could be used both externally and internally, for example Metamask or any other contract could use it
